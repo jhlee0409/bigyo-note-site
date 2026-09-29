@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jhlee0409.github.io/bigyo-note-site/sitemap.xml
